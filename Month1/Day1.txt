@@ -1,0 +1,5 @@
+SSH, Docker, Brew and VS Code Installation
+Meeting session
+NVM, Brew, iterm2, github account, Docker, zsh installation/setup
+run test case for the same 
+submitted policies form
